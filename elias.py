@@ -1,4 +1,4 @@
-# adam.py - Diagnóstico de Rede Interativo para Técnicos de Campo
+# Elias - Diagnóstico de Rede Interativo para Técnicos de Campo
 # Desenvolvido para ISPs, redes locais e ambientes Linux com foco em UX de terminal
 
 import os
